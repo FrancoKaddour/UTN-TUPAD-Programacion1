@@ -6,3 +6,4 @@
 - Repaso de sintaxis y algoritmos - 2026-04-01T10:16:24
 - Repaso de sintaxis y algoritmos - 2026-04-01T11:25:14
 - Repaso de sintaxis y algoritmos - 2026-04-01T12:27:34
+- Repaso de sintaxis y algoritmos - 2026-04-01T13:18:26
