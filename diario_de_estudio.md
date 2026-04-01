@@ -25,3 +25,4 @@
 - Repaso de sintaxis y algoritmos - 2026-04-06T10:54:38
 - Repaso de sintaxis y algoritmos - 2026-04-06T11:38:26
 - Repaso de sintaxis y algoritmos - 2026-04-06T12:32:25
+- Sprint intensivo de repaso y prácticas iteración 0 - 2026-04-01T08:10:05
