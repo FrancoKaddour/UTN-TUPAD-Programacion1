@@ -81,3 +81,4 @@
 - Sprint intensivo de repaso y prácticas iteración 53 - 2026-04-01T19:38:38
 - Sprint intensivo de repaso y prácticas iteración 54 - 2026-04-01T20:17:14
 - Sprint intensivo de repaso y prácticas iteración 0 - 2026-04-04T08:28:43
+- Sprint intensivo de repaso y prácticas iteración 1 - 2026-04-04T09:51:00
