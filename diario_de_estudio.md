@@ -1,140 +1,23 @@
-# Diario de Estudio y Tareas Diarias
+# 📓 Diario de Estudio: UTN-TUPAD Programación 1
 
-- Repaso de sintaxis y algoritmos - 2026-03-31T10:41:36
-- Repaso de sintaxis y algoritmos - 2026-03-31T11:56:55
-- Repaso de sintaxis y algoritmos - 2026-03-31T12:24:14
-- Repaso de sintaxis y algoritmos - 2026-04-01T10:16:24
-- Repaso de sintaxis y algoritmos - 2026-04-01T11:25:14
-- Repaso de sintaxis y algoritmos - 2026-04-01T12:27:34
-- Repaso de sintaxis y algoritmos - 2026-04-01T13:18:26
-- Repaso de sintaxis y algoritmos - 2026-04-01T14:19:28
-- Repaso de sintaxis y algoritmos - 2026-04-02T10:56:32
-- Repaso de sintaxis y algoritmos - 2026-04-02T11:14:54
-- Repaso de sintaxis y algoritmos - 2026-04-03T10:59:35
-- Repaso de sintaxis y algoritmos - 2026-04-03T11:51:26
-- Repaso de sintaxis y algoritmos - 2026-04-03T12:33:14
-- Repaso de sintaxis y algoritmos - 2026-04-03T13:36:47
-- Repaso de sintaxis y algoritmos - 2026-04-03T14:27:41
-- Repaso de sintaxis y algoritmos - 2026-04-03T15:34:14
-- Repaso de sintaxis y algoritmos - 2026-04-03T16:29:56
-- Repaso de sintaxis y algoritmos - 2026-04-04T10:42:13
-- Repaso de sintaxis y algoritmos - 2026-04-04T11:32:23
-- Repaso de sintaxis y algoritmos - 2026-04-04T12:26:40
-- Repaso de sintaxis y algoritmos - 2026-04-04T13:44:39
-- Repaso de sintaxis y algoritmos - 2026-04-05T10:47:47
-- Repaso de sintaxis y algoritmos - 2026-04-06T10:54:38
-- Repaso de sintaxis y algoritmos - 2026-04-06T11:38:26
-- Repaso de sintaxis y algoritmos - 2026-04-06T12:32:25
-- Sprint intensivo de repaso y prácticas iteración 0 - 2026-04-01T08:10:05
-- Sprint intensivo de repaso y prácticas iteración 1 - 2026-04-01T09:29:28
-- Sprint intensivo de repaso y prácticas iteración 2 - 2026-04-01T10:18:10
-- Sprint intensivo de repaso y prácticas iteración 3 - 2026-04-01T11:58:16
-- Sprint intensivo de repaso y prácticas iteración 4 - 2026-04-01T12:48:37
-- Sprint intensivo de repaso y prácticas iteración 5 - 2026-04-01T13:12:20
-- Sprint intensivo de repaso y prácticas iteración 6 - 2026-04-01T14:56:30
-- Sprint intensivo de repaso y prácticas iteración 7 - 2026-04-01T15:52:41
-- Sprint intensivo de repaso y prácticas iteración 8 - 2026-04-01T16:10:32
-- Sprint intensivo de repaso y prácticas iteración 9 - 2026-04-01T17:09:36
-- Sprint intensivo de repaso y prácticas iteración 10 - 2026-04-01T18:43:20
-- Sprint intensivo de repaso y prácticas iteración 11 - 2026-04-01T19:56:55
-- Sprint intensivo de repaso y prácticas iteración 12 - 2026-04-01T20:40:18
-- Sprint intensivo de repaso y prácticas iteración 13 - 2026-04-01T21:40:43
-- Sprint intensivo de repaso y prácticas iteración 14 - 2026-04-01T08:36:45
-- Sprint intensivo de repaso y prácticas iteración 15 - 2026-04-01T09:07:46
-- Sprint intensivo de repaso y prácticas iteración 16 - 2026-04-01T10:41:38
-- Sprint intensivo de repaso y prácticas iteración 17 - 2026-04-01T11:56:17
-- Sprint intensivo de repaso y prácticas iteración 18 - 2026-04-01T12:48:07
-- Sprint intensivo de repaso y prácticas iteración 19 - 2026-04-01T13:36:15
-- Sprint intensivo de repaso y prácticas iteración 20 - 2026-04-01T14:54:48
-- Sprint intensivo de repaso y prácticas iteración 21 - 2026-04-01T15:27:09
-- Sprint intensivo de repaso y prácticas iteración 22 - 2026-04-01T16:43:51
-- Sprint intensivo de repaso y prácticas iteración 23 - 2026-04-01T17:46:45
-- Sprint intensivo de repaso y prácticas iteración 24 - 2026-04-01T18:50:32
-- Sprint intensivo de repaso y prácticas iteración 25 - 2026-04-01T19:35:45
-- Sprint intensivo de repaso y prácticas iteración 26 - 2026-04-01T20:25:35
-- Sprint intensivo de repaso y prácticas iteración 27 - 2026-04-01T21:00:23
-- Sprint intensivo de repaso y prácticas iteración 28 - 2026-04-01T08:27:09
-- Sprint intensivo de repaso y prácticas iteración 29 - 2026-04-01T09:28:32
-- Sprint intensivo de repaso y prácticas iteración 30 - 2026-04-01T10:57:28
-- Sprint intensivo de repaso y prácticas iteración 31 - 2026-04-01T11:42:27
-- Sprint intensivo de repaso y prácticas iteración 32 - 2026-04-01T12:41:11
-- Sprint intensivo de repaso y prácticas iteración 33 - 2026-04-01T13:26:19
-- Sprint intensivo de repaso y prácticas iteración 34 - 2026-04-01T14:57:03
-- Sprint intensivo de repaso y prácticas iteración 35 - 2026-04-01T15:58:57
-- Sprint intensivo de repaso y prácticas iteración 36 - 2026-04-01T16:25:12
-- Sprint intensivo de repaso y prácticas iteración 37 - 2026-04-01T17:04:34
-- Sprint intensivo de repaso y prácticas iteración 38 - 2026-04-01T18:08:34
-- Sprint intensivo de repaso y prácticas iteración 39 - 2026-04-01T19:53:02
-- Sprint intensivo de repaso y prácticas iteración 40 - 2026-04-01T20:12:11
-- Sprint intensivo de repaso y prácticas iteración 41 - 2026-04-01T21:40:59
-- Sprint intensivo de repaso y prácticas iteración 42 - 2026-04-01T08:20:46
-- Sprint intensivo de repaso y prácticas iteración 43 - 2026-04-01T09:58:26
-- Sprint intensivo de repaso y prácticas iteración 44 - 2026-04-01T10:29:13
-- Sprint intensivo de repaso y prácticas iteración 45 - 2026-04-01T11:35:15
-- Sprint intensivo de repaso y prácticas iteración 46 - 2026-04-01T12:18:54
-- Sprint intensivo de repaso y prácticas iteración 47 - 2026-04-01T13:32:23
-- Sprint intensivo de repaso y prácticas iteración 48 - 2026-04-01T14:29:46
-- Sprint intensivo de repaso y prácticas iteración 49 - 2026-04-01T15:23:02
-- Sprint intensivo de repaso y prácticas iteración 50 - 2026-04-01T16:17:26
-- Sprint intensivo de repaso y prácticas iteración 51 - 2026-04-01T17:53:11
-- Sprint intensivo de repaso y prácticas iteración 52 - 2026-04-01T18:31:43
-- Sprint intensivo de repaso y prácticas iteración 53 - 2026-04-01T19:38:38
-- Sprint intensivo de repaso y prácticas iteración 54 - 2026-04-01T20:17:14
-- Sprint intensivo de repaso y prácticas iteración 0 - 2026-04-04T08:28:43
-- Sprint intensivo de repaso y prácticas iteración 1 - 2026-04-04T09:51:00
-- Sprint intensivo de repaso y prácticas iteración 2 - 2026-04-04T10:13:43
-- Sprint intensivo de repaso y prácticas iteración 3 - 2026-04-04T11:41:13
-- Sprint intensivo de repaso y prácticas iteración 4 - 2026-04-04T12:07:46
-- Sprint intensivo de repaso y prácticas iteración 5 - 2026-04-04T13:47:39
-- Sprint intensivo de repaso y prácticas iteración 6 - 2026-04-04T14:17:22
-- Sprint intensivo de repaso y prácticas iteración 7 - 2026-04-04T15:10:30
-- Sprint intensivo de repaso y prácticas iteración 8 - 2026-04-04T16:13:29
-- Sprint intensivo de repaso y prácticas iteración 9 - 2026-04-04T17:41:22
-- Sprint intensivo de repaso y prácticas iteración 10 - 2026-04-04T18:26:46
-- Sprint intensivo de repaso y prácticas iteración 11 - 2026-04-04T19:19:35
-- Sprint intensivo de repaso y prácticas iteración 12 - 2026-04-04T20:11:06
-- Sprint intensivo de repaso y prácticas iteración 13 - 2026-04-04T21:54:51
-- Sprint intensivo de repaso y prácticas iteración 14 - 2026-04-04T08:13:56
-- Sprint intensivo de repaso y prácticas iteración 15 - 2026-04-04T09:05:30
-- Sprint intensivo de repaso y prácticas iteración 16 - 2026-04-04T10:40:09
-- Sprint intensivo de repaso y prácticas iteración 17 - 2026-04-04T11:39:45
-- Sprint intensivo de repaso y prácticas iteración 18 - 2026-04-04T12:23:47
-- Sprint intensivo de repaso y prácticas iteración 19 - 2026-04-04T13:09:27
-- Sprint intensivo de repaso y prácticas iteración 20 - 2026-04-04T14:56:17
-- Sprint intensivo de repaso y prácticas iteración 21 - 2026-04-04T15:03:55
-- Sprint intensivo de repaso y prácticas iteración 22 - 2026-04-04T16:20:50
-- Sprint intensivo de repaso y prácticas iteración 23 - 2026-04-04T17:55:27
-- Sprint intensivo de repaso y prácticas iteración 24 - 2026-04-04T18:26:50
-- Sprint intensivo de repaso y prácticas iteración 25 - 2026-04-04T19:44:45
-- Sprint intensivo de repaso y prácticas iteración 26 - 2026-04-04T20:47:35
-- Sprint intensivo de repaso y prácticas iteración 27 - 2026-04-04T21:23:57
-- Sprint intensivo de repaso y prácticas iteración 28 - 2026-04-04T08:36:38
-- Sprint intensivo de repaso y prácticas iteración 29 - 2026-04-04T09:36:46
-- Sprint intensivo de repaso y prácticas iteración 30 - 2026-04-04T10:03:36
-- Sprint intensivo de repaso y prácticas iteración 31 - 2026-04-04T11:03:09
-- Sprint intensivo de repaso y prácticas iteración 32 - 2026-04-04T12:57:55
-- Sprint intensivo de repaso y prácticas iteración 33 - 2026-04-04T13:52:07
-- Sprint intensivo de repaso y prácticas iteración 34 - 2026-04-04T14:18:59
-- Sprint intensivo de repaso y prácticas iteración 35 - 2026-04-04T15:45:55
-- Sprint intensivo de repaso y prácticas iteración 36 - 2026-04-04T16:34:08
-- Sprint intensivo de repaso y prácticas iteración 37 - 2026-04-04T17:38:00
-- Sprint intensivo de repaso y prácticas iteración 38 - 2026-04-04T18:51:46
-- Sprint intensivo de repaso y prácticas iteración 39 - 2026-04-04T19:08:20
-- Sprint intensivo de repaso y prácticas iteración 40 - 2026-04-04T20:59:37
-- Sprint intensivo de repaso y prácticas iteración 41 - 2026-04-04T21:24:02
-- Sprint intensivo de repaso y prácticas iteración 42 - 2026-04-04T08:53:57
-- Sprint intensivo de repaso y prácticas iteración 43 - 2026-04-04T09:07:23
-- Sprint intensivo de repaso y prácticas iteración 44 - 2026-04-04T10:37:35
-- Sprint intensivo de repaso y prácticas iteración 45 - 2026-04-04T11:07:11
-- Sprint intensivo de repaso y prácticas iteración 46 - 2026-04-04T12:35:25
-- Sprint intensivo de repaso y prácticas iteración 47 - 2026-04-04T13:26:47
-- Sprint intensivo de repaso y prácticas iteración 48 - 2026-04-04T14:03:57
-- Sprint intensivo de repaso y prácticas iteración 49 - 2026-04-04T15:30:32
-- Sprint intensivo de repaso y prácticas iteración 50 - 2026-04-04T16:32:03
-- Sprint intensivo de repaso y prácticas iteración 51 - 2026-04-04T17:57:38
-- Sprint intensivo de repaso y prácticas iteración 52 - 2026-04-04T18:09:17
-- Sprint intensivo de repaso y prácticas iteración 53 - 2026-04-04T19:29:01
-- Sprint intensivo de repaso y prácticas iteración 54 - 2026-04-04T20:35:20
-- Sprint intensivo de repaso y prácticas iteración 55 - 2026-04-04T21:48:15
-- Sprint intensivo de repaso y prácticas iteración 56 - 2026-04-04T08:23:44
-- Sprint intensivo de repaso y prácticas iteración 57 - 2026-04-04T09:04:36
+¡Bienvenido a mi registro de aprendizaje! Aquí iré documentando de manera creativa todos los conceptos y herramientas que voy dominando a lo largo de las unidades. 🚀
+
+## 📚 Unidades Completadas
+
+### 🔹 Unidad 1: Estructuras Secuenciales
+>  El primer paso. Aprendimos las bases de la programación mediante la ejecución paso a paso del código. Tipos de datos, declaración de variables, inputs, operaciones matemáticas y algoritmos que fluyen linealmente.
+
+### 🔹 Unidad 2: Condicionales
+> ¡La toma de decisiones! Empezamos a usar bifurcaciones en el flujo de nuestro programa con `if`, `elif` y `else`. Aprendimos a manejar expresiones booleanas, rangos e interacciones que cambian en tiempo real.
+
+### 🔹 Unidad 3: Estructuras Repetitivas
+> El superpoder de la automatización. Implementamos iteraciones usando bucles `for` y `while`, resolviendo desafíos más grandes, como desarrollo de menús interactivos, validaciones exigentes y simulaciones.
+
+### 🔹 Unidad 4: Git y GitHub
+> Manejo profesional de código. Entramos al mundo del control de versiones aprendiendo cómo guardar un registro inmutable del avance, usar ramas, asegurar hitos (commits) y compartir todo en GitHub mediante `push` y `pull`.
+
+### 🔹 Unidad 5: Manipulación de Listas
+> Organización avanzada de la información. Evolucionamos de variables simples a vectores y colecciones, dominando las listas, métodos ordenamiento y métricas integradas, slicing y hasta creación de matrices 2D. 
+
+---
+*💡 Este diario se irá actualizando unidad a unidad conforme el nivel suba...*
