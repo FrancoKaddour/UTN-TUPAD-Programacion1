@@ -15,7 +15,9 @@ print("=== EJERCICIO 1: Identificar errores ===")
 # numbers = [1, 2, 3]
 # print(numbers[5])   # Error: IndexError — la lista tiene índices 0, 1 y 2; el 5 no existe
 
-print("Errores identificados en los comentarios del código.")
+print("Errores identificados (ver comentarios en el código).")
+print("  - result = a / b    → TypeError: 'b' es str, no se puede dividir int / str")
+print("  - print(numbers[5]) → IndexError: la lista solo tiene índices 0, 1 y 2")
 
 # ============================================
 # EJERCICIO 2 — CORREGIR ERRORES SIN EXCEPCIONES
