@@ -5,12 +5,18 @@ Repositorio de la materia Programación I.
 ## Contenido
 
 - `Entregas/`
-  - `practica_unidad_1.py`
-  - `practica_unidad_2.py`
-  - `practica_unidad_3.py`
-  - `practica_unidad_5.py`
-  - `practica_unidad_6.py`
-  - `practica_unidad_7.py`
+  - `Unidad_1/`
+    - `practica_unidad_1.py`
+  - `Unidad_2/`
+    - `practica_unidad_2.py`
+  - `Unidad_3/`
+    - `practica_unidad_3.py`
+  - `Unidad_5/`
+    - `practica_unidad_5.py`
+  - `Unidad_6/`
+    - `practica_unidad_6.py`
+  - `Unidad_7/`
+    - `practica_unidad_7.py`
 
 - `Integrador/`
   - Carpeta preparada para el trabajo integrador, actualmente vacía.
