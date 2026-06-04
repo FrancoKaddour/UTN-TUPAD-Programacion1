@@ -5,17 +5,17 @@ Repositorio de la materia Programación I.
 ## Contenido
 
 - `Entregas/`
-  - `Unidad_1/`
+  - `Secuenciales/`
     - `practica_unidad_1.py`
-  - `Unidad_2/`
+  - `Condicionales/`
     - `practica_unidad_2.py`
-  - `Unidad_3/`
+  - `Bucles_y_validacion/`
     - `practica_unidad_3.py`
-  - `Unidad_5/`
+  - `Colecciones/`
     - `practica_unidad_5.py`
-  - `Unidad_6/`
+  - `Funciones/`
     - `practica_unidad_6.py`
-  - `Unidad_7/`
+  - `Diccionarios/`
     - `practica_unidad_7.py`
 
 - `Integrador/`
