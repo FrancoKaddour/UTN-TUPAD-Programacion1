@@ -6,5 +6,5 @@ Segunda evaluación parcial de **Programación I**.
 
 | Archivo | Descripción |
 |---------|-------------|
-| [sistema_inventario.py](sistema_inventario.py) | Sistema de inventario desarrollado para el parcial |
+| [codigo_parcial.py](codigo_parcial.py) | Sistema de inventario desarrollado para el parcial |
 | [Video Parcial.mp4](Video%20Parcial.mp4) | Grabación de la presentación del parcial |
