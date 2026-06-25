@@ -117,8 +117,8 @@ Cantidad de paises por continente:
 ## Enlaces de entrega
 
 - Repositorio GitHub: https://github.com/gjisaias/UTN-TPI-Programacion1
-- Video demostrativo: https://youtu.be/EfYUKP-7b7A
-- Documentacion PDF: Informe_tecnico.pdf (incluido en la raiz del repositorio)
+- Video demostrativo: https://www.youtube.com/watch?v=XXbByEsrNnI
+- Documentacion PDF: Documentacion/Informe_tecnico.pdf
 
 ## Participacion
 
